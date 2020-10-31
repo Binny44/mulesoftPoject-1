@@ -5,5 +5,6 @@ public class muleSoftProject {
         System.out.println("Love you all so much");
         System.out.println("Java is Fun");
         System.out.println("We all are hard working people");
+        System.out.println("Binny is love");
     }
 }
